@@ -18,7 +18,10 @@
 </details>
 
 <details>
-  Professionally, I’ve been programming for the past 8 years, working towards 9 (I've been doing some version of this since 08 which feels like so long ago now.). I focus on UI engineering, utilizing Swift, TypeScript, React Native, and Objective-C. I've built various things in Java, Kotlin, and Python as well. I’m self-motivated and passionate about my craft. I'm always learning new things, teaching others what I learn, and never shying away from anything that comes my way.
+  Engineering leader with 10+ years managing cross-functional teams building native and web applications across
+mobile and desktop platforms. Proven track record building 0-to-1 products, leading rapid prototyping initiatives,
+and translating complex technical requirements into transformative user experiences. Expert at managing projects
+with uncertain outcomes and fostering environments where teams learn rapidly from both successes and failures.
   <summary>
     the long version
   </summary>
@@ -28,5 +31,5 @@
 
 
 ## [👋🏽](https://user-images.githubusercontent.com/1743953/87253294-1f4c3980-c448-11ea-9c42-319ac7ab0fe8.gif) Wanna Chat?
-👉🏽 @ me on [twittter@mrtnrst](https://twitter.mrtnrst.com/)
+👉🏽 @ me on [mastodon@mrtnrst](https://hachyderm.io/@mrtnrst)
 </br>
